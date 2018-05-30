@@ -1,0 +1,3 @@
+/**
+ * Test decalration file.
+ */

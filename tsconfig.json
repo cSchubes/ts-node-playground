@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "lib": [
+            "es2015.symbol", "es2015", "dom"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/node": "^10.1.3",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.46"
+  }
+}
